@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pctBE2Tr9l3M45ZfSm3jUoNXQpzGSsia7nrmZ5FyzFM=",
+  "Source": "PoC.PollyRetries.Github.Api",
+  "BasePath": "_content/PoC.PollyRetries.Github.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

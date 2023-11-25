@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PoC.PollyRetries.Github.Api.props" />
+</Project>
